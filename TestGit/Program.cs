@@ -12,6 +12,7 @@ namespace TestGit
         {
             Console.WriteLine("Hello world!!!!");
             Console.WriteLine("Privet Andrew");
+            Console.WriteLine("Last commit");
             Console.ReadKey();
         }
     }
